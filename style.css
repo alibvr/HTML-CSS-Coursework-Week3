@@ -1,1 +1,13 @@
-/*  Add your styling here */
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+body{
+    font-family: 'Open Sans',serif;
+    background-color: #f8edeb;
+    line-height: 1.6;
+}
+
+.hc-bg-banner{
+    height: 100vh;
+    background-image: url(/img/pexels-antonio-quagliata-227432.jpg);
+    background-size: 100%;
+}
